@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type='text'],input[type='password'],input[type='number'],input[type="search"],textarea{
+    @apply w-full border shadow drop-shadow-lg my-2 py-2 px-8 rounded-2xl;
+}
+input[type='file']{
+    @apply w-full  my-3 py-2 px-8 ;
+}
