@@ -1,7 +1,7 @@
 # E-Commerce-CRUD-Project
 My first project is about ecommerce website CRUD Application for hardware store online and create by ReactJS , Tailwind CSS , Node.js(Express.js) and MongoDB. Thank you for your attention.
 # HOW TO USE
-
+# วิธีการติดตั้งสำหรับใช้งาน E-Commerce Website
 # api
 1.เปิด terminal และเข้าไปยังไฟล์ api โดยพิมพ์ **cd api**
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/2272de62-4234-428d-acba-35a6de2b15c3)
@@ -10,6 +10,7 @@ My first project is about ecommerce website CRUD Application for hardware store 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/2bd15869-fce2-49aa-ae4f-7b381989b696)
 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/d1ddf19f-2cc3-40f1-8a5d-cf983792092d)
+
 
 # MongoDB
 1.ติดตั้ง MongoDB Compass ตามลิงค์นี้ **https://www.mongodb.com/try/download/community** กด Select package และกด Download จากนั้นติดตั้ง
@@ -25,6 +26,8 @@ My first project is about ecommerce website CRUD Application for hardware store 
 # URL connect api and MongoDB
 1.ไฟล์ api เข้าไปยัง .env จะพบ URL_MONGODB ต้องตรงกับ URL ของ MongoDB [**eCommerce คือ เมื่อมีการเพิ่มข้อมูลจะสร้าง database ที่ชื่อว่า eCommerce**]
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/26783a54-68d7-4e0e-b08f-4598758d6cad)
+
+![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/707d4f93-6f1c-4cf3-bc18-86bb35796d2c)
 
 
 # Client
@@ -51,7 +54,13 @@ My first project is about ecommerce website CRUD Application for hardware store 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/09389002-c265-41dd-8642-3f7833da66c3)
 
 
+# การใช้งาน E-Commerce Website
+1.ทำการ **register** ถ้าสำเร็จจะขึ้น register successและ **login**
+![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/3fbfd0d0-9389-4c99-b68e-caace58ed4c8)
 
+![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/99d99ea1-da60-47ec-99c9-7fab019f191a)
 
+2.เพิ่มสินค้าโดยกด **create your product**
+![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/b237584f-e5f4-4f96-b356-31264e3aa1a1)
 
 
