@@ -52,7 +52,7 @@ My first project is about ecommerce website CRUD Application for hardware store 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/9ab1fc0c-43db-40ce-943d-408b67ba432e)
 
 
-**api(npm start) และ client(npm run dev) ต้อง run พร้อมกัน**
+**api(npm start) และ client(npm run dev) ต้อง run พร้อมกัน** พร้อมทั้ง connect MongoDB
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/09389002-c265-41dd-8642-3f7833da66c3)
 
 
