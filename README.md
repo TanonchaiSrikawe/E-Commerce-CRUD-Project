@@ -39,8 +39,10 @@ My first project is about ecommerce website CRUD Application for hardware store 
 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/44ee735b-4c06-453a-bdb1-8ecdc4031843)
 
-3.ติดตั้งโดยพิมพ์คำสั่ง **npm install** และ **npm i react-filter-search** ลงใน terminal และติดตั้งตามลำดับ 
+3.ติดตั้งโดยพิมพ์คำสั่ง **npm install** , **npm config set legacy-peer-deps true** และ **npm i react-filter-search** ลงใน terminal โดยติดตั้งตามลำดับทีละคำสั่ง 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/043163a8-abfc-4731-a173-001116ce96f1)
+
+![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/754dfef5-ff68-4614-b4c3-941e85b3a700)
 
 ![image](https://github.com/TanonchaiSrikawe/E-Commerce-CRUD-Project/assets/141351306/682d100c-1fa6-4aa1-903b-b25a8fb237b4)
 
